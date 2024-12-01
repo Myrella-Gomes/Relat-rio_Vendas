@@ -3,3 +3,6 @@
   
 # Objetivo:
 - Elaborar um relatório de análise de dados sobre vendas e lucros de seis produtos em cinco países.
+
+# Resultado
+- Em anexo
